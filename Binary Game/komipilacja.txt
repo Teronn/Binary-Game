@@ -1,0 +1,5 @@
+Kompilacja - mo¿e (nie musi) wymagaæ dodania do ustawieñ preprocesora 
+_CRT_SECURE_NO_WARNINGS.
+
+Mo¿liwe, ¿e œcie¿ka nie jest relatywnie szukana w Visual Studio, dlatego
+trzeba czasem zmieniaæ œcie¿ke pliku szablonowego
